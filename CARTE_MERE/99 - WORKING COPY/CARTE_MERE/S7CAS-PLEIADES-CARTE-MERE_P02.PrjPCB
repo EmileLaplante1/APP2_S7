@@ -360,6 +360,44 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPNCOELP
 
+[Document20]
+DocumentPath=..\..\98 - TEMP LIBRARY\altium_parts_templates_PCB.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LCVOSCSV
+
+[Document21]
+DocumentPath=..\..\98 - TEMP LIBRARY\libMilpcb.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VRWQBNUW
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_P02\Design Rule Check - S7CAS-PLEIADES-CARTE-MERE_P02.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Project_Date
 Value=2019-01-09

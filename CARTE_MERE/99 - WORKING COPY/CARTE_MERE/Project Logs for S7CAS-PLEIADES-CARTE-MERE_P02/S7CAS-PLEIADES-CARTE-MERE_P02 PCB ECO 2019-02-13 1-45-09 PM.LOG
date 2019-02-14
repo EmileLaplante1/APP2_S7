@@ -1,0 +1,154 @@
+Removed Pin From Net: NetName=JTAG_TDO Pin=U2-A24
+Removed Pin From Net: NetName=3P3V Pin=U2-AA6
+Removed Pin From Net: NetName=3P3V Pin=U2-AA10
+Removed Pin From Net: NetName=3P3V Pin=U2-AA16
+Removed Pin From Net: NetName=3P3V Pin=U2-AA21
+Removed Pin From Net: NetName=JTAG_TMS Pin=U2-C23
+Removed Pin From Net: NetName=JTAG_TCK Pin=U2-E21
+Removed Pin From Net: NetName=3P3V Pin=U2-F6
+Removed Pin From Net: NetName=JTAG_TDI Pin=U2-F20
+Removed Pin From Net: NetName=3P3V Pin=U2-F21
+Removed Pin From Net: NetName=3P3V Pin=U2-G12
+Removed Pin From Net: NetName=3P3V Pin=U2-G15
+Removed Pin From Net: NetName=3P3V Pin=U2-J9
+Removed Pin From Net: NetName=3P3V Pin=U2-J18
+Removed Pin From Net: NetName=1P2V Pin=U2-K11
+Removed Pin From Net: NetName=3P3V Pin=U2-K13
+Removed Pin From Net: NetName=1P2V Pin=U2-K17
+Removed Pin From Net: NetName=3P3V Pin=U2-L5
+Removed Pin From Net: NetName=1P2V Pin=U2-L10
+Removed Pin From Net: NetName=1P2V Pin=U2-L12
+Removed Pin From Net: NetName=1P2V Pin=U2-L14
+Removed Pin From Net: NetName=1P2V Pin=U2-L16
+Removed Pin From Net: NetName=UART_RTS# Pin=U2-L18
+Removed Pin From Net: NetName=3P3V Pin=U2-L22
+Removed Pin From Net: NetName=1P2V Pin=U2-M11
+Removed Pin From Net: NetName=1P2V Pin=U2-M13
+Removed Pin From Net: NetName=1P2V Pin=U2-M15
+Removed Pin From Net: NetName=3P3V Pin=U2-M17
+Removed Pin From Net: NetName=UART_TXD Pin=U2-M19
+Removed Pin From Net: NetName=3P3V Pin=U2-N10
+Removed Pin From Net: NetName=1P2V Pin=U2-N12
+Removed Pin From Net: NetName=1P2V Pin=U2-N14
+Removed Pin From Net: NetName=1P2V Pin=U2-N16
+Removed Pin From Net: NetName=1P2V Pin=U2-P11
+Removed Pin From Net: NetName=1P2V Pin=U2-P13
+Removed Pin From Net: NetName=1P2V Pin=U2-P15
+Removed Pin From Net: NetName=1P2V Pin=U2-R12
+Removed Pin From Net: NetName=1P2V Pin=U2-R14
+Removed Pin From Net: NetName=1P2V Pin=U2-R16
+Removed Pin From Net: NetName=1P2V Pin=U2-T11
+Removed Pin From Net: NetName=1P2V Pin=U2-T13
+Removed Pin From Net: NetName=1P2V Pin=U2-T15
+Removed Pin From Net: NetName=1P2V Pin=U2-T17
+Removed Pin From Net: NetName=3P3V Pin=U2-U6
+Removed Pin From Net: NetName=1P2V Pin=U2-U10
+Removed Pin From Net: NetName=3P3V Pin=U2-U14
+Removed Pin From Net: NetName=1P2V Pin=U2-U16
+Removed Pin From Net: NetName=3P3V Pin=U2-V9
+Removed Pin From Net: NetName=3P3V Pin=U2-Y19
+Change Component Footprint: Designator=C122 Old Footprint=CAP_ALU_1616_vishay New Footprint=CAP_ALU_1010_vishay
+Change Component Footprint: Designator=C123 Old Footprint=CAP_ALU_1616_vishay New Footprint=CAP_ALU_1010_vishay
+Change Component Comment : Designator=C122 Old Comment=MAL214699108E3 New Comment=MAL215099101E3
+Change Component Comment : Designator=C123 Old Comment=MAL214699108E3 New Comment=MAL215099101E3
+Change component parameters: Designator = "C122"; Footprint = "CAP_ALU_1010_vishay"; UniqueID = "\WOCQPLOS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "490mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "http://www.vishay.com/docs/28395/150crz.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Part Number"; Value = "MAL215099101E3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "4399PHDKR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C123"; Footprint = "CAP_ALU_1010_vishay"; UniqueID = "\YYAMVQDL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "490mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "http://www.vishay.com/docs/28395/150crz.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Part Number"; Value = "MAL215099101E3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "4399PHDKR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1P2V Pin=U2-D1
+Added Pin To Net: NetName=1P2V Pin=U2-D3
+Added Pin To Net: NetName=1P2V Pin=U2-E1
+Added Pin To Net: NetName=1P2V Pin=U2-E2
+Added Pin To Net: NetName=1P2V Pin=U2-F1
+Added Pin To Net: NetName=1P2V Pin=U2-F3
+Added Pin To Net: NetName=JTAG_TCK Pin=U2-F8
+Added Pin To Net: NetName=JTAG_TMS Pin=U2-F14
+Added Pin To Net: NetName=1P2V Pin=U2-G1
+Added Pin To Net: NetName=1P2V Pin=U2-G2
+Added Pin To Net: NetName=JTAG_TDI Pin=U2-G11
+Added Pin To Net: NetName=JTAG_TDO Pin=U2-G13
+Added Pin To Net: NetName=1P2V Pin=U2-H1
+Added Pin To Net: NetName=1P2V Pin=U2-H3
+Added Pin To Net: NetName=1P2V Pin=U2-J1
+Added Pin To Net: NetName=1P2V Pin=U2-J2
+Added Pin To Net: NetName=1P2V Pin=U2-J3
+Added Pin To Net: NetName=1P2V Pin=U2-J4
+Added Pin To Net: NetName=1P2V Pin=U2-K1
+Added Pin To Net: NetName=1P2V Pin=U2-K3
+Added Pin To Net: NetName=1P2V Pin=U2-K8
+Added Pin To Net: NetName=1P2V Pin=U2-L1
+Added Pin To Net: NetName=1P2V Pin=U2-L2
+Added Pin To Net: NetName=1P2V Pin=U2-L8
+Added Pin To Net: NetName=1P2V Pin=U2-M1
+Added Pin To Net: NetName=1P2V Pin=U2-M3
+Added Pin To Net: NetName=1P2V Pin=U2-N1
+Added Pin To Net: NetName=1P2V Pin=U2-N2
+Added Pin To Net: NetName=UART_TXD Pin=U2-P24
+Added Pin To Net: NetName=UART_RTS# Pin=U2-P26
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=Component C1 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=Component C2 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER Member=Component C121 MAL214699108E3
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER Member=Component C122 MAL215099101E3
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER Member=Component C123 MAL215099101E3
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_CONNECTORS Member=Component J1 ASP-134488-01
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_ETHERNET Member=Component J2 RJHSE-5385
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_MOTOR_CTRL Member=Component J3 OSTTC040162
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER Member=Component J4 0430450401
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_USB Member=Component J5 98424-G52-14ALF
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_ETHERNET Member=Component L6 FER - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_TITLE_PAGE Member=Component MH1 Mounting Hole 6-32
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_TITLE_PAGE Member=Component MH2 Mounting Hole 6-32
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_TITLE_PAGE Member=Component MH3 Mounting Hole 6-32
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_TITLE_PAGE Member=Component MH4 Mounting Hole 6-32
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=Component R18 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_ETHERNET Member=Component T1 H1102NLT
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=Component U1 MT41J128M16JT-125
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_USB Member=Component U17 SI8641BA-C-IU
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_USB Member=Component U18 SI8642BA-B-IU
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_USB Member=Component U19 FT2232H-MINI-MODULE
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_CLOCKS
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_CONNECTORS
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_ETHERNET
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_FLASH
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_FPGA_B0B1
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_FPGA_B2B3
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_FPGA_B4B5
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_MOTOR_CTRL
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_POWER
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_TITLE_PAGE
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_USB
+Added Room: Name=S7CAS-PLEIADES-CARTE-MERE_P02_USER_IO

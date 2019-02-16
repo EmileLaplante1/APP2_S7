@@ -1,0 +1,13 @@
+Added Component: Designator=U16(VSON-10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC170_2 Pin=U16-1
+Added Pin To Net: NetName=1P5V Pin=U16-2
+Added Pin To Net: NetName=0P75V Pin=U16-3
+Added Pin To Net: NetName=GND Pin=U16-4
+Added Pin To Net: NetName=0P75V Pin=U16-5
+Added Pin To Net: NetName=VREF_0V75 Pin=U16-6
+Added Pin To Net: NetName=SLP_S3 Pin=U16-7
+Added Pin To Net: NetName=NetC171_1 Pin=U16-8
+Added Pin To Net: NetName=PGOOD Pin=U16-9
+Added Pin To Net: NetName=3P3V Pin=U16-10
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER Member=Component U16 TPS51200

@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=0P75V Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=0P75V Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=0P75V Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=0P75V Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=0P75V Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=0P75V Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=0P75V Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=0P75V Pin=C30-2
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=C23
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=C24
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=C25
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=C26
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=C27
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=C28
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=C29
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_DDR3 Member=C30
+Change component parameters: Designator = "C171"; Footprint = "CAP_0805"; UniqueID = "\SCIQXFTF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"

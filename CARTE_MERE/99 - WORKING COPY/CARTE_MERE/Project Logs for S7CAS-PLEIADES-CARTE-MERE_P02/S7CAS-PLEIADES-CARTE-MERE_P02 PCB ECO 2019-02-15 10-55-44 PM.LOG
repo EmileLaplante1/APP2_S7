@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=U9-12
+Removed Pin From Net: NetName=NetC138_2 Pin=U10-1
+Removed Pin From Net: NetName=3P3VAUX Pin=U10-2
+Removed Pin From Net: NetName=5P0V Pin=U10-3
+Removed Pin From Net: NetName=GND Pin=U10-4
+Removed Pin From Net: NetName=NetC143_2 Pin=U11-1
+Removed Pin From Net: NetName=2P5V Pin=U11-2
+Removed Pin From Net: NetName=3P3V Pin=U11-3
+Removed Pin From Net: NetName=GND Pin=U11-4
+Removed Pin From Net: NetName=NetC148_2 Pin=U12-1
+Removed Pin From Net: NetName=VADJ Pin=U12-2
+Removed Pin From Net: NetName=2P5V Pin=U12-3
+Removed Pin From Net: NetName=GND Pin=U12-4
+Removed Pin From Net: NetName=GND Pin=U13-12
+Removed Pin From Net: NetName=GND Pin=U14-12
+Removed Pin From Net: NetName=NetC176_2 Pin=U17-1
+Removed Pin From Net: NetName=1P5V Pin=U17-2
+Removed Pin From Net: NetName=2P5V Pin=U17-3
+Removed Pin From Net: NetName=GND Pin=U17-4
+Change Component Footprint: Designator=U10 Old Footprint=LM1084-DPAK New Footprint=DPAK-3
+Change Component Footprint: Designator=U11 Old Footprint=LM1084-DPAK New Footprint=DPAK-3
+Change Component Footprint: Designator=U12 Old Footprint=LM1084-DPAK New Footprint=DPAK-3
+Change Component Footprint: Designator=U17 Old Footprint=LM1084-DPAK New Footprint=DPAK-3

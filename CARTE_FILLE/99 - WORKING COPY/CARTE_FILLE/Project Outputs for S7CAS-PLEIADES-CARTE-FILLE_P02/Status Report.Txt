@@ -1,0 +1,41 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [S7CAS-PLEIADES-CARTE-FILLE_P02.PrjPcb]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Copper_Signal_Top.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Copper_Plane_1.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Copper_Signal_1.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Copper_Plane_2.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Copper_Plane_3.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Copper_Plane_4.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Copper_Plane_5.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Copper_Signal_2.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Copper_Plane_6.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Copper_Signal_Bot.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Pads_Bot.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Pads_Top.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Soldermask_Bot.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Legend_Top.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Soldermask_Top.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Paste_Bot.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Legend_Bot.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Paste_Top.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Keep-out.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Mechanical_8.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Mechanical_13.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Mechanical_15.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Mechanical_1.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Mechanical_14.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Profile.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_NPTH_Drill.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_PTH_Drill.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Drawing_1.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02_Drillmap_1.gbr]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02.RUL]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02.EXTREP]
+   Generated File[S7CAS-PLEIADES-CARTE-FILLE_P02.REP]
+
+
+Files Generated   : 32
+Documents Printed : 0
+
+Finished Output Generation At 18:02:49 On 2019-02-16

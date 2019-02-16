@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: S7CAS-PLEIADES-CARTE-FILLE_P02.GBR   2019-02-16  18:02:40
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                SIGNAL_TOP                              
+.gbr                GND                                     
+.gbr                INNER_SIGNAL_3                          
+.gbr                GND                                     
+.gbr                3V3                                     
+.gbr                SPLIT_POWER                             
+.gbr                GND                                     
+.gbr                INNER_SIGNAL_8                          
+.gbr                GND                                     
+.gbr                SIGNAL_BOTTOM                           
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Bottom Solder                           
+.gbr                Top Overlay                             
+.gbr                Top Solder                              
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Top Paste                               
+.gbr                Keep-Out Layer                          
+.gbr                Mechanical 8                            
+.gbr                Mechanical 13                           
+.gbr                Machanical 18                           
+.gbr                Mechanical 1                            
+.gbr                Outline                                 
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------

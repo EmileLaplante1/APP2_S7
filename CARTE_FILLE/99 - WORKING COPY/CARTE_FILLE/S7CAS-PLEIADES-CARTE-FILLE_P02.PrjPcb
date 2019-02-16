@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CUAFEAJR
+DocumentUniqueId=OARCGOND
 
 [Document8]
 DocumentPath=..\..\98 - TEMP LIBRARY\lib_JF.SchLib
@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OARCGOND
+DocumentUniqueId=UUBRACQL
 
 [Document10]
 DocumentPath=..\..\98 - TEMP LIBRARY\libjeffpcb.PcbLib
@@ -223,6 +223,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPGTKGQA
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-FILLE_P02\Design Rule Check - S7CAS-PLEIADES-CARTE-FILLE_P02.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Project_Date
@@ -430,7 +434,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OrCADPS_17.2
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

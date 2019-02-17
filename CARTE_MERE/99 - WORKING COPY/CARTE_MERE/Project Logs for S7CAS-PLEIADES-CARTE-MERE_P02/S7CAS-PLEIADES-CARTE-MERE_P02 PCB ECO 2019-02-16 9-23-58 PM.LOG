@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=50ohms Member=NetR47_1
+Removed Member From Class: ClassName=50ohms Member=NetR49_1
+Removed Member From Class: ClassName=50ohms Member=NetR51_1
+Removed Member From Class: ClassName=50ohms Member=NetR52_1
+Removed Member From Class: ClassName=50ohms Member=NetR53_1
+Removed Member From Class: ClassName=50ohms Member=NetR54_1
+Removed Member From Class: ClassName=50ohms Member=NetR55_1
+Change Net Name : Old Net Name=NetR47_1 New Net Name=PHY_RDXV
+Change Net Name : Old Net Name=NetR49_1 New Net Name=PHY_REXR
+Change Net Name : Old Net Name=NetR51_1 New Net Name=PHY_RDX0
+Change Net Name : Old Net Name=NetR52_1 New Net Name=PHY_RDX1
+Change Net Name : Old Net Name=NetR53_1 New Net Name=PHY_RDX2
+Change Net Name : Old Net Name=NetR54_1 New Net Name=PHY_RDX3
+Change Net Name : Old Net Name=NetR55_1 New Net Name=PHY_RCX
+Added Member To Class: ClassName=50ohms Member=Wire PHY_RCX
+Added Member To Class: ClassName=50ohms Member=Wire PHY_RDX0
+Added Member To Class: ClassName=50ohms Member=Wire PHY_RDX1
+Added Member To Class: ClassName=50ohms Member=Wire PHY_RDX2
+Added Member To Class: ClassName=50ohms Member=Wire PHY_RDX3
+Added Member To Class: ClassName=50ohms Member=Wire PHY_RDXV
+Added Member To Class: ClassName=50ohms Member=Wire PHY_REXR

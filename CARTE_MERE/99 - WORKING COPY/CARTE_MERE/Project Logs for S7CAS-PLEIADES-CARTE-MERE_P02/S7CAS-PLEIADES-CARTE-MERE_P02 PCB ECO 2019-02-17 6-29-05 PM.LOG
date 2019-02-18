@@ -1,0 +1,36 @@
+Added Pin To Net: NetName=GND Pin=C151-1
+Added Pin To Net: NetName=24P0V Pin=C151-2
+Added Pin To Net: NetName=GND Pin=C152-1
+Added Pin To Net: NetName=24P0V Pin=C152-2
+Added Pin To Net: NetName=GND Pin=C153-1
+Added Pin To Net: NetName=3P3V Pin=C153-2
+Added Pin To Net: NetName=GND Pin=C154-1
+Added Pin To Net: NetName=3P3V Pin=C154-2
+Added Pin To Net: NetName=24P0V Pin=C155-1
+Added Pin To Net: NetName=GND Pin=C155-2
+Added Pin To Net: NetName=3P3V Pin=C156-1
+Added Pin To Net: NetName=GND Pin=C156-2
+Added Pin To Net: NetName=3P3V Pin=C157-1
+Added Pin To Net: NetName=GND Pin=C157-2
+Added Pin To Net: NetName=NetR75_1 Pin=R75-1
+Added Pin To Net: NetName=3P3V Pin=R75-2
+Added Pin To Net: NetName=GND Pin=R76-1
+Added Pin To Net: NetName=NetR75_1 Pin=R76-2
+Added Pin To Net: NetName=24P0V Pin=U13-1
+Added Pin To Net: NetName=24P0V Pin=U13-2
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=GND Pin=U13-5
+Added Pin To Net: NetName=GND Pin=U13-6
+Added Pin To Net: NetName=NetR75_1 Pin=U13-7
+Added Pin To Net: NetName=3P3V Pin=U13-10
+Added Pin To Net: NetName=3P3V Pin=U13-11
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER Member=Component C151 CAP - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER Member=Component C152 CAP - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER Member=Component C153 CAP - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER Member=Component C154 CAP - TANTALUM - CASE B
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER Member=Component C155 MAL215099101E3
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER Member=Component C156 MAL215099101E3
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER Member=Component C157 MAL215099101E3
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER Member=Component R75 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER Member=Component R76 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P02_POWER_CARRIER Member=Component U13 LMZ23610
